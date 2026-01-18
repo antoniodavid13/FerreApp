@@ -55,3 +55,4 @@ GRANT ALL PRIVILEGES ON FerreApp.* TO 'ferreapp'@'localhost';
 
 -- Aplicar cambios de privilegios
 FLUSH PRIVILEGES;
+-- SELECT * FROM producto;
