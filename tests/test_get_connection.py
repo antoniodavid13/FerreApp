@@ -17,4 +17,7 @@ if __name__ == "__main__":
         conn.close()
     except Exception as e:
         print('❌ Error de conexión →', e)
+
+# ===== EJECUCIÓN DESDE CMD =====
+# python tests/test_get_connection.py
 # python tests/test_get_connection.py
